@@ -9,7 +9,8 @@
     "48":"ic48.ico",
     "128":"ic128.ico"
   },
-  "chrome_url_overrides":{
-    "newtab":"index.html"
+
+  "browser_action": {
+    "default_popup":"index.html"
   }
 }
